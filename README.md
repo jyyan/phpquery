@@ -29,6 +29,10 @@ To quote the phpQuery *(orignally concieved and developed by Tobiasz Cudnik, ava
 >
 >Library is written in PHP5 and provides additional Command Line Interface (CLI).
 
+### More reference document
+
+please visit : https://code.google.com/p/phpquery/wiki/Manual
+
 ### Example usage
 
 (copied from http://code.google.com/p/phpquery/wiki/Basics)
