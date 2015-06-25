@@ -8,6 +8,7 @@ I've gathered some fix and new features here and there, as will keep looking for
 * https://github.com/ralph-tice/phpquery (one commit: added WebBrowser->browserDownload)
 * https://github.com/aptivate/phpquery (three commits)
 * https://github.com/panrafal/phpquery (remove zend)
+* https://github.com/tunght13488/phpquery (DOM wrapper with UTF8 header)
 
 ### github repos i've looked at:
 
@@ -19,6 +20,10 @@ I've gathered some fix and new features here and there, as will keep looking for
 * https://github.com/Aurielle/phpquery
 * https://github.com/kevee/phpquery (include php-css-parser)
 * https://github.com/lucassouza1/phpquery
+
+## Another awesome similar project : *PHP-CSS-Parser*
+
+* https://github.com/sabberworm/PHP-CSS-Parser
 
 ## Extracts from fmorrow README.md:
 
